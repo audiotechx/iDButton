@@ -29,7 +29,7 @@ start "" "%~dp0iDButton.exe" run "D:\Programs"
 exit
 
 
-REM 5	(App)
+REM 5	(App / File)
 
 @echo off
 start "" "%~dp0iDButton.exe" run "D:\Programs\App.exe"
